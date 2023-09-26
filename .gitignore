@@ -1,0 +1,15 @@
+# Mac OS
+.DS_Store
+
+# Node.js
+node_modules/
+npm-debug.log
+yarn-error.log
+
+# Visual Studio Code
+.vscode/
+.settings/
+.history/
+.history-rej/
+*.code-workspace
+
